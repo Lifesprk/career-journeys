@@ -1,5 +1,5 @@
 # Career Journeys
-Web application for Gloo Engineering's career journey framework.
+Web application for Lifesprk's Engineering's career journey framework.
 
 # Getting Started
 ```
@@ -12,7 +12,7 @@ npm run dev
 ```
 
 # How to Contribute
-As engineering at Gloo evolves, so too must this framework. We want to make it as easy as possible for anybody to request changes but still retain an approval process, auditing, history, etc. just like you would want in any code base. As such, we use git to manage changes in the framework.
+As engineering at Lifesprk evolves, so too must this framework. We want to make it as easy as possible for anybody to request changes but still retain an approval process, auditing, history, etc. just like you would want in any code base. As such, we use git to manage changes in the framework.
 
 There are a few ways to contribute:
 
@@ -30,7 +30,6 @@ For people who want to make simple changes straight in github's web app.
 4. Add a commit message, select the **Create a new branch...** option
 
 ## Clubhouse
-If you are not comfortable proposing changes via Pull Request, you can create a story in the [Career Journeys Clubhouse project](https://app.clubhouse.io/glooengineering/stories/space/844/career-journeys)
+If you are not comfortable proposing changes via Pull Request, you can spin up a discussion in #engineering
 
 # Versions
-[February 2019](https://career-journeys-feb-2019.now.sh/)

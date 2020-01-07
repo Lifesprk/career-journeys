@@ -11,7 +11,6 @@ const Layout = (props) => {
         <div className="top-nav-links">
           <Link href="/"><a className={router.pathname === '/' ? 'active' : ''}>Home</a></Link>
           <Link href="/roles"><a className={router.pathname === '/roles' ? 'active' : ''}>Engineer Roles</a></Link>
-          <Link href="/qa-roles"><a className={router.pathname === '/qa-roles' ? 'active' : ''}>QA Roles</a></Link>
           <Link href="/skills"><a className={router.pathname === '/skills' ? 'active' : ''}>Skills</a></Link>
           <Link href="/functions"><a className={router.pathname === '/functions' ? 'active' : ''}>Functions</a></Link>
         </div>
