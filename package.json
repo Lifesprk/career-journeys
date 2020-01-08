@@ -1,5 +1,5 @@
 {
-  "name": "@goldenshun/career-journey-framework",
+  "name": "@lifesprk/career-journeys",
   "version": "0.0.2",
   "description": "k",
   "private": true,
@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goldenshun/career-journey-framework.git"
+    "url": "git+https://github.com/Lifesprk/career-journeys.git"
   },
   "author": "Sean Connolly",
   "license": "MIT",
-  "homepage": "https://github.com/goldenshun/career-journey-framework#readme",
+  "homepage": "https://github.com/Lifesprk/career-journeys#readme",
   "dependencies": {
     "@mdx-js/mdx": "0.15.7",
     "@zeit/next-mdx": "1.2.0",
