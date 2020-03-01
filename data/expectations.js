@@ -306,7 +306,6 @@ export const ROLE_EXPECTATIONS = {
       inheritsBehaviorsFrom: 'PRINCIPAL_ENGINEER',
     },
   },
-  ...QA_ROLE_EXPECTATIONS,
 };
 
 export const SKILL_EXPECTATIONS = {};
