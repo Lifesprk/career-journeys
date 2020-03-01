@@ -1,4 +1,3 @@
-import QA_ROLE_EXPECTATIONS from './qa-expectations';
 
 export const ROLE_EXPECTATIONS = {
   ASSOCIATE_ENGINEER: {
@@ -26,7 +25,7 @@ export const ROLE_EXPECTATIONS = {
     },
     STRATEGIC_CLARITY: {
       behaviors: [
-        'Understands and can explain Gloo’s Core Purpose / Mission and Design Principles',
+        'Understands and can explain Lifesprk\'s Values, Life Experience Delivery System and Strategic Goals',
         'Understands the priorities and objectives for the team',
         'Clearly communicates to team members and manager through status updates, comments on code changes and dialog in stories.',
       ],
@@ -67,9 +66,9 @@ export const ROLE_EXPECTATIONS = {
     },
     STRATEGIC_CLARITY: {
       behaviors: [
-        'Can describe connection between Gloo’s Products and Strategy and Gloo’s Purpose / Mission and Design Principles.',
-        'Actively learns more about others parts of Gloo',
-        'Actively engages in understanding Gloo strategy how it impacts the team.',
+        'Can describe connection between Lifesprk\'s Products and Strategy and LEADS Goals.',
+        'Actively learns more about others parts of the Lifesprk Business',
+        'Actively engages in understanding Lifesprk strategy how it impacts the team.',
         'Actively contributes to the creation and maintenance of documentation',
       ],
     },
@@ -141,10 +140,10 @@ export const ROLE_EXPECTATIONS = {
     },
     STRATEGIC_CLARITY: {
       behaviors: [
-        'Helps align product and engineering with Gloo Strategy and Design principles.',
+        'Helps align product and engineering with Lifesprk Strategy , Objectives and Values.',
         'Identifies appropriate metrics that tie back to business objectives and measures those when making decisions.',
-        'Understands various product offerings and how they work together.',
-        'Actively works toward balancing team, engineering and Gloo objectives',
+        'Understands various products and how they work together.',
+        'Actively works toward balancing team, engineering and Lifesprk objectives',
         'Discovers need for and creates and maintains architectural, process and strategic documentation for the team',
         'Discovers, advocates for and drives small to moderately complex process changes to team process',
       ],
@@ -183,10 +182,10 @@ export const ROLE_EXPECTATIONS = {
     },
     STRATEGIC_CLARITY: {
       behaviors: [
-        'Adds clarity and nuanced understanding to Strategy and Design principles.',
+        'Adds clarity and nuanced understanding to Strategy and Objectives.',
         'Represents engineering in cross-org discussions.',
-        'Helps guide their team on broader impact and mentors them on how their decisions impact Gloo.',
-        'Aligns technology strategy with product strategy in partnership with Directors and VP.',
+        'Helps guide their team on broader impact and mentors them on how their decisions impact Lifesprk and our stakeholders.',
+        'Aligns technology strategy with product strategy in partnership with Product and Engineering Leaderhip.',
         'Leads team to create and maintain architectural, process and strategic documentation for the engineering organization',
         'Discovers, advocates for and creates buy in from stakeholders to drive complex process or strategy changes across teams',
       ],
@@ -261,8 +260,8 @@ export const ROLE_EXPECTATIONS = {
         'Represents engineering to outside partners and stakeholders.',
         'Connects the work we’re doing to the principles and goals of the company.',
         'Demonstrates a deep understanding future product roadmap.',
-        'Leads the Gloo organization in creating and maintenance of architectural, process and strategic documentation.',
-        'Discovers, advocates for, and successfully improves process or strategy across Gloo organization',
+        'Leads the Lifesprk organization in creating and maintenance of architectural, process and strategic documentation.',
+        'Discovers, advocates for, and successfully improves process or strategy across Lifesprk organization',
       ],
     },
     LEADERSHIP: {
@@ -270,7 +269,7 @@ export const ROLE_EXPECTATIONS = {
         'Instills and promotes a culture of learning and development within engineering.',
         'Promotes a culture that encourages courageous decision making.',
         'Defines processes with stakeholders that empower the team, have alignment with company goals, improve team’s progress, and demonstrate success.',
-        'Promotes a positive, fun working environment both inside and outside of Gloo.',
+        'Promotes a positive, fun working and collaborative environment both inside and outside of Lifesprk.',
         'Instills trust and confidence with team through transparency and action.',
       ],
     },
